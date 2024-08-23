@@ -1,0 +1,9 @@
+Funções: são pequenas partes do código, que são criados fora do main, sendo utilizados como meio de evitar repetições no código, ou para a própria otimização dele, este servindo para apenas uma função.
+
+Argumentos/Parâmetros: São os pré-requisitos que você define quando cria a função, sendo informações que vem de outra função, estas são variáveis locais destas funções, que serão utilizadas na função para gerar alguma coisa.
+
+Tipos de funções: É que nem quando você define o tipo de variável, você pode definir que a função é um int, e assim ela só pode retornar valores correspondentes, sendo essas funções que podem retornar, existem também as que não podem, por exemplo, Void.
+
+Void: É um tipo de função diferenciado, ele não possui um tipo, é muito mais parecido com uma main em si, pois esta só faz o que era para fazer, mas não retorna um valor, mas em vez disso, ela já faz suas ações de maneira direta.
+
+Passagem de parâmetros: ela ocorre por dois tipos passagem, o por valor(que uma cópia do valor é fornecida para a função, não alterando a variável de origem do valor), e por referencia(Onde é fornecido o endereço do local da variável e é permitido a alteração do valor).
